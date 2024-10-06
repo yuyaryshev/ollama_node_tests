@@ -1,0 +1,16 @@
+{
+  "name": "ollama_node_tests",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yuri Yaryshev",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ollama": "^0.5.9"
+  }
+}
